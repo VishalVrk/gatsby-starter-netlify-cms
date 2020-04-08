@@ -49,7 +49,11 @@ const TemplateWrapper = ({ children }) => {
         />
       </Helmet>
       <Navbar />
-      <div>{children}</div>
+      <div style={{
+        width:"80%"
+      }}>
+        {children}
+      </div>
       <Footer />
     </div>
   )

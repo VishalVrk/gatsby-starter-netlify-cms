@@ -1,19 +1,13 @@
 ---
 templateKey: 'about-page'
 path: /about
-title: About our values
+title: About Me
+image: static\img\coffee.png
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+##Description  
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+I come from the family of a national hero from South India. My grandpa PKS Kattuwa Mohaiyadeen, an Indian Freedom Fighter, was famous for his social activities and community services. My grandfather actively participated, and was committed and involved in the development of facilities such as education and health. He was therefore invited to actively participate in the regional political forums. He was also closely associated with Hon.K.Kamaraj former Chief Minister of Tamil Nadu and Hon. P Kakkan former Home Minister of the state of Tamil Nadu.
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+Inspired by my grandfather, I have been from my young age, involved in organizing blood donation camps, bringing peace and harmony to my fellow citizens. My early academic days were filled with keen involvement in the development and promotion of the ancient classical Indian language, Tamil.
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
-
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+This has been a major driving factor which lead me to becoming an internationally recognized Peace Activist and British Entrepreneur, The Founding Chairman and Board of Director for UK Charity “World Humanitarian Drive” and “Platinum Consultant London” for Trading and Developments. I take pride in being able to work towards finding sustainable solutions for current humanitarian crisis involving Racism, Terrorism, Radicalization, Human and Women’s Rights and Violence and Mass migration of people as refugees and supporting trade initiatives.
