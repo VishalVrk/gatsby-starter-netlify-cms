@@ -19,6 +19,7 @@ BlogPostPreview.propTypes = {
     getIn: PropTypes.func,
   }),
   widgetFor: PropTypes.func,
+  getAsset: PropTypes.func,
 }
 
 export default BlogPostPreview

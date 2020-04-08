@@ -50,4 +50,5 @@ collections:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "about-page"}
           - {label: "Title", name: "title", widget: "string"}
           - {label: "Body", name: "body", widget: "markdown"}
-          - {label: "Featured Image", name: "thumbnail", widget: "image", default: "static\img\chemex.jpg"}
+          - {label: Image, name: image, widget: image}
+          - {label: Designatory Roles, name: roles, widget: string}

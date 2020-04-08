@@ -29,6 +29,7 @@
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-helmet": "^5.2.0",
+    "react-responsive-carousel": "^3.1.57",
     "uuid": "^7.0.0"
   },
   "keywords": [
