@@ -3,8 +3,15 @@ templateKey: about-page
 path: /about
 title: About Me
 image: /img/blog-index.jpg
-roles: > 
-        Roles
+roles: >-
+  This has been a major driving factor which lead me to becoming an
+  internationally recognized Peace Activist and British Entrepreneur, The
+  Founding Chairman and Board of Director for UK Charity “World Humanitarian
+  Drive” and “Platinum Consultant London” for Trading and Developments. I take
+  pride in being able to work towards finding sustainable solutions for current
+  humanitarian crisis involving Racism, Terrorism, Radicalization, Human and
+  Women’s Rights and Violence and Mass migration of people as refugees and
+  supporting trade initiatives.
 ---
 
 # **Description**  
