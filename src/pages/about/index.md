@@ -3,7 +3,8 @@ templateKey: about-page
 path: /about
 title: About Me
 image: /img/blog-index.jpg
-roles: Roles
+roles: > 
+        Roles
 ---
 
 # **Description**  
