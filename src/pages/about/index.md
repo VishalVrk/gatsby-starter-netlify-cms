@@ -4,14 +4,15 @@ path: /about
 title: About Me
 image: /img/blog-index.jpg
 roles: >-
-  This has been a major driving factor which lead me to becoming an
-  internationally recognized Peace Activist and British Entrepreneur, The
-  Founding Chairman and Board of Director for UK Charity “World Humanitarian
-  Drive” and “Platinum Consultant London” for Trading and Developments. I take
-  pride in being able to work towards finding sustainable solutions for current
-  humanitarian crisis involving Racism, Terrorism, Radicalization, Human and
-  Women’s Rights and Violence and Mass migration of people as refugees and
-  supporting trade initiatives.
+        International Ambassador – Croydon Borough of Greater London
+        Founder & Chairman – World Humanitarian Drive
+        Board of Director – Universal Peace Federation
+        Director – Platinum Consultant London Ltd
+        Founder & Chairman – Al Basit Real Estate
+        Vice president – Space Kidz India
+        Vice President – Amicability International Diplomatic Club
+        Board Member- Croydon Mayor's Charity Board
+        Steering Committee Member – Faiths Together in Croydon
 ---
 
 # **Description**  
